@@ -733,7 +733,7 @@ footer input[type=submit]:hover {
 	}
 
 	.slidez {
-		width: 89%;
+		width: calc(100% - 64px);
 	}
 
 	.wrapper {
@@ -779,6 +779,4 @@ footer input[type=submit]:hover {
 	.footer form input{
 		margin-bottom: 24px;
 	}
-
-
 }
